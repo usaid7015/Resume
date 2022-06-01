@@ -322,7 +322,7 @@
         width: 100%;
         max-width: 95%;
         margin: 40px auto 0px auto;
-        height: 245vh;
+        height: 230vh;
         z-index: 9999;
         border-radius: 5px;
         display: flex;
@@ -344,7 +344,7 @@
         background-color: rgba(255, 255, 255, 0.361);
         width: 100%;
         max-width: 95%;
-        height: 20vh;
+        height: 10vh;
         margin: 20px auto 20px auto;
         z-index: 9999;
         border-radius: 5px;
